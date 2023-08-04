@@ -1,0 +1,5 @@
+yq game/Library/
+yq game/Temp/
+yq game/Logs/
+yq game/ProjectSettings/
+yq game/UserSettings/
